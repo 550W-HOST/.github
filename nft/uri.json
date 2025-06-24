@@ -1,0 +1,43 @@
+{
+  "name": "550WHOST",
+  "symbol": "550WHOST",
+  "description": "A proudly unprofitable domain held by a circle of online individuals.",
+  "seller_fee_basis_points": 200,
+  "external_url": "https://550w.host",
+  "image": "https://github.com/550W-HOST.png",
+  "attributes": [
+    {
+      "trait_type": "Chairman",
+      "value": "GavinGong"
+    },
+    {
+      "trait_type": "Member",
+      "value": "Therainisme"
+    },
+    {
+      "trait_type": "Member",
+      "value": "PommesPeter"
+    },
+    {
+      "trait_type": "Member",
+      "value": "PuQing"
+    },
+    {
+      "trait_type": "Member",
+      "value": "Lideming"
+    },
+    {
+      "trait_type": "Member",
+      "value": "PaperCube"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://github.com/550W-HOST.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
